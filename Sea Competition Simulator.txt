@@ -1,0 +1,36 @@
+Definite tasks to do for the game:
+1. make the canvas
+2. make the form for players to enter their name
+3. add a button to customize the players look in game
+4. database
+5. functions to randomly geneorate power-ups and enemies
+6. end marker
+7. score display
+8. side quests display
+9. make the camera work according to the players position
+10. 
+
+
+
+
+additional tasks:
+1. add an arrow to show the most direct path to endpoint
+
+
+Database:
+1. Players name
+2. Players score
+3. distance 
+4. player count
+5. number of quests to complete
+6. game state
+
+
+Tasks to do after class:
+1. download all images
+2. put images wherever you can
+3. make github repository and upload everything done in tasks
+
+
+PLAN POWERUPS AND ENEMIES COMING
+Lanes should come after ocean image to show lanes
